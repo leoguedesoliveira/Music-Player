@@ -81,12 +81,8 @@ progress{
     cursor: pointer;
 }
 
-.btn-pause{
-    display: none !important;
-
-}
-
 .setas{
     font-size: 25px;
     cursor: pointer;
+    
 }
