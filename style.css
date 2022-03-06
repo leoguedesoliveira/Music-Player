@@ -76,7 +76,7 @@ progress{
     align-items: center;
 }
 
-.btn-play, .btn-pause{
+.botao-play, .botao-pause{
     font-size: 30px;
     cursor: pointer;
 }
